@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @pttkachuk
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning NodeJS
 - 💻 You can find some of my projects below:
 - [MoneyGuard][https://gkastet.github.io/ITArt/],
 - [Bookshelf][https://lastavchuk.github.io/priceless-brains/];
