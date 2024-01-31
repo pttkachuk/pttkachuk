@@ -5,6 +5,7 @@
 - Quiz Master: [https://stepaniuk-den.github.io/quiz-master/],
 - MoneyGuard: [https://gkastet.github.io/ITArt/],
 - Bookshelf: [https://lastavchuk.github.io/priceless-brains/];
+  \n\n
 📫 How to reach me:
 
 LinkedIn - [https://www.linkedin.com/in/petro-tkachuk/];
