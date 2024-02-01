@@ -23,9 +23,11 @@ My name is Petro and I'm an Junior Web Developer
 <a href="https://www.linkedin.com/in/petro-tkachuk/">
   <img alt="Petro's LinkedIn" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:petrotkachuk6@gmail.com">
   <img alt="Petro's Email" src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://t.me/pttkachuk">
   <img alt="Petro's Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
