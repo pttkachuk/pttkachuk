@@ -31,7 +31,6 @@ My name is Petro and I'm an Junior Web Developer
 </a>
 
 
-- LinkedIn - [];
 
 <!---
 pttkachuk/pttkachuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
