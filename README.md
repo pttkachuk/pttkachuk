@@ -7,8 +7,8 @@ My name is Petro and I'm an Junior Web Developer
 ### Languages and tools:
 ![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![react](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)
+![reactnative](https://img.shields.io/badge/reactnative-admiral?style=for-the-badge&logo=reactnative&logoColor=white)
 ![html](https://img.shields.io/badge/html-red?style=for-the-badge&logo=html&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 - 💻 You can find some of my projects below:
 - Quiz Master: [https://stepaniuk-den.github.io/quiz-master/],
 - MoneyGuard: [https://gkastet.github.io/ITArt/],
