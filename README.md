@@ -12,6 +12,7 @@ Currently i'm working at an React-Native App and an site card.
 ![reactnative](https://img.shields.io/badge/reactnative-admiral?style=for-the-badge&logo=reactnative&logoColor=white)
 ![restapi](https://img.shields.io/badge/restapi-grey?style=for-the-badge&logo=restapi&logoColor=white)
 ![nodejs](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=nodejs&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb%20-%20green?style=for-the-badge&logo=mongodb&logoColor=white)
 ![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white)
 ![html](https://img.shields.io/badge/html-red?style=for-the-badge&logo=html&logoColor=white)
 
