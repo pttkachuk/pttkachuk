@@ -16,7 +16,7 @@ Currently i'm working at an React-Native App and an site card.
 ![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white)
 ![html](https://img.shields.io/badge/html-red?style=for-the-badge&logo=html&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=pttkachuk&style=for-the-badge&color=grey)
+![](https://komarev.com/ghpvc/?username=pttkachuk&style=flat&color=grey)
 
 💻 You can find some of my projects below:
 - Quiz Master: [https://stepaniuk-den.github.io/quiz-master/],
