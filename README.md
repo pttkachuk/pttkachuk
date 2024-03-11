@@ -14,7 +14,7 @@ I'm currently working at an React-Native App and its backend and an dashboard we
 ![mongodb](https://img.shields.io/badge/mongodb%20-%20green?style=for-the-badge&logo=mongodb&logoColor=white)
 ![restapi](https://img.shields.io/badge/restapi-grey?style=for-the-badge&logo=restapi&logoColor=white)
 ![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white)
-![html](https://img.shields.io/badge/html-red?style=for-the-badge&logo=html&logoColor=white)
+
 
 ![](https://komarev.com/ghpvc/?username=pttkachuk&style=flat&color=grey)
 
