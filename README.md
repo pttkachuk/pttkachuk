@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Petro and I'm an Junior Web Developer.
+My name is Petro and I'm an Web Developer.
 
 I'm currently working at an React-Native App and its backend and an dashboard website.
 
